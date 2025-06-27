@@ -1,5 +1,9 @@
 # Cyclistic-Bike-Usage-Analysis
 
+## Business case Overview
+This project was developed as part of my early data analytics portfolio to demonstrate how data can drive strategic decisions in real-world contexts. Using historical trip data from Cyclistic, a bike-share company in Chicago, I conducted an end-to-end analysis to uncover key behavioral differences between casual and annual riders. The goal: provide actionable insights to support marketing strategies that increase annual memberships.
+
+
 ## Overview 
 This project analyzes historical bike-share usage data for Cyclistic, a fictional bike-share company in Chicago. The goal is to uncover actionable insights that will inform the company’s marketing strategy to convert more casual riders into annual members.
 
